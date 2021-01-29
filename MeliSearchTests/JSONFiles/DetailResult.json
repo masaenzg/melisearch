@@ -1,0 +1,410 @@
+{
+    "id": "MCO560131680",
+    "site_id": "MCO",
+    "title": "Tapabocas Con Filtro N95 Respirador Válvula Mascarilla 5 Cap",
+    "subtitle": null,
+    "seller_id": 97637240,
+    "category_id": "MCO180968",
+    "official_store_id": null,
+    "price": 9999,
+    "base_price": 9999,
+    "original_price": null,
+    "currency_id": "COP",
+    "initial_quantity": 3521,
+    "available_quantity": 1,
+    "sold_quantity": 500,
+    "sale_terms": [{
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantía",
+        "value_id": "6150835",
+        "value_name": "Sin garantía",
+        "value_struct": null,
+        "values": [{
+            "id": "6150835",
+            "name": "Sin garantía",
+            "struct": null
+        }]
+    }],
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "start_time": "2020-04-26T22:27:20.000Z",
+    "stop_time": "2040-04-21T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.co/MCO-560131680-tapabocas-con-filtro-n95-respirador-valvula-mascarilla-5-cap-_JM",
+    "thumbnail_id": "673568-MCO41553111621_042020",
+    "thumbnail": "http://mco-s1-p.mlstatic.com/673568-MCO41553111621_042020-I.jpg",
+    "secure_thumbnail": "https://mco-s1-p.mlstatic.com/673568-MCO41553111621_042020-I.jpg",
+    "pictures": [{
+        "id": "673568-MCO41553111621_042020",
+        "url": "http://mco-s1-p.mlstatic.com/673568-MCO41553111621_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/673568-MCO41553111621_042020-O.jpg",
+        "size": "500x469",
+        "max_size": "796x747",
+        "quality": ""
+    }, {
+        "id": "850378-MCO41553125933_042020",
+        "url": "http://mco-s1-p.mlstatic.com/850378-MCO41553125933_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/850378-MCO41553125933_042020-O.jpg",
+        "size": "500x500",
+        "max_size": "750x750",
+        "quality": ""
+    }, {
+        "id": "797613-MCO41553156134_042020",
+        "url": "http://mco-s1-p.mlstatic.com/797613-MCO41553156134_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/797613-MCO41553156134_042020-O.jpg",
+        "size": "500x500",
+        "max_size": "750x750",
+        "quality": ""
+    }, {
+        "id": "717948-MCO41553124993_042020",
+        "url": "http://mco-s1-p.mlstatic.com/717948-MCO41553124993_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/717948-MCO41553124993_042020-O.jpg",
+        "size": "500x500",
+        "max_size": "750x750",
+        "quality": ""
+    }, {
+        "id": "721716-MCO41553116537_042020",
+        "url": "http://mco-s1-p.mlstatic.com/721716-MCO41553116537_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/721716-MCO41553116537_042020-O.jpg",
+        "size": "500x365",
+        "max_size": "746x545",
+        "quality": ""
+    }, {
+        "id": "801952-MCO41553124832_042020",
+        "url": "http://mco-s1-p.mlstatic.com/801952-MCO41553124832_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/801952-MCO41553124832_042020-O.jpg",
+        "size": "500x500",
+        "max_size": "750x750",
+        "quality": ""
+    }, {
+        "id": "909021-MCO41553235092_042020",
+        "url": "http://mco-s1-p.mlstatic.com/909021-MCO41553235092_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/909021-MCO41553235092_042020-O.jpg",
+        "size": "359x500",
+        "max_size": "863x1199",
+        "quality": ""
+    }, {
+        "id": "898382-MCO41553382151_042020",
+        "url": "http://mco-s1-p.mlstatic.com/898382-MCO41553382151_042020-O.jpg",
+        "secure_url": "https://mco-s1-p.mlstatic.com/898382-MCO41553382151_042020-O.jpg",
+        "size": "500x456",
+        "max_size": "828x756",
+        "quality": ""
+    }],
+    "video_id": "RuqnVw_ZF7w",
+    "descriptions": [{
+        "id": "MCO560131680-2629387234"
+    }],
+    "accepts_mercadopago": true,
+    "non_mercado_pago_payment_methods": [],
+    "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": [],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+    },
+    "international_delivery_mode": "none",
+    "seller_address": {
+        "city": {
+            "id": "TUNPQ1RFTmU2Mzdh",
+            "name": "Tenjo"
+        },
+        "state": {
+            "id": "CO-CUN",
+            "name": "Cundinamarca"
+        },
+        "country": {
+            "id": "CO",
+            "name": "Colombia"
+        },
+        "search_location": {
+            "neighborhood": {
+                "id": "TUNPQlRFTjcxNDQzOA",
+                "name": "Tenjo"
+            },
+            "city": {
+                "id": "TUNPQ1RFTmU2Mzdh",
+                "name": "Tenjo"
+            },
+            "state": {
+                "id": "TUNPUENVTmE3NmQ4",
+                "name": "Cundinamarca"
+            }
+        },
+        "id": 115810241
+    },
+    "seller_contact": null,
+    "location": {},
+    "coverage_areas": [],
+    "attributes": [{
+        "id": "BRAND",
+        "name": "Marca",
+        "value_id": null,
+        "value_name": "N95",
+        "value_struct": null,
+        "values": [{
+            "id": null,
+            "name": "N95",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "COMPATIBLE_FILTERS",
+        "name": "Filtros compatibles",
+        "value_id": null,
+        "value_name": "standar",
+        "value_struct": null,
+        "values": [{
+            "id": null,
+            "name": "standar",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "FILTERED_MATERIALS",
+        "name": "Materiales filtrados",
+        "value_id": "3765930",
+        "value_name": "Carbón",
+        "value_struct": null,
+        "values": [{
+            "id": "3765930",
+            "name": "Carbón",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "FILTERS_NUMBER",
+        "name": "Cantidad de filtros",
+        "value_id": null,
+        "value_name": "5",
+        "value_struct": null,
+        "values": [{
+            "id": null,
+            "name": "5",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "GTIN",
+        "name": "Código universal de producto",
+        "value_id": "-1",
+        "value_name": null,
+        "value_struct": null,
+        "values": [{
+            "id": "-1",
+            "name": null,
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "INCLUDES_FILTERS",
+        "name": "Incluye filtros",
+        "value_id": "242085",
+        "value_name": "Sí",
+        "value_struct": null,
+        "values": [{
+            "id": "242085",
+            "name": "Sí",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "ITEM_CONDITION",
+        "name": "Condición del ítem",
+        "value_id": "2230284",
+        "value_name": "Nuevo",
+        "value_struct": null,
+        "values": [{
+            "id": "2230284",
+            "name": "Nuevo",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "MEDICINES",
+        "name": "Medicamentos",
+        "value_id": "7575931",
+        "value_name": "Para humanos sin receta médica",
+        "value_struct": null,
+        "values": [{
+            "id": "7575931",
+            "name": "Para humanos sin receta médica",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "MODEL",
+        "name": "Modelo",
+        "value_id": null,
+        "value_name": "HM 2008Z",
+        "value_struct": null,
+        "values": [{
+            "id": null,
+            "name": "HM 2008Z",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "PACKAGE_HEIGHT",
+        "name": "Altura del paquete",
+        "value_id": null,
+        "value_name": "0.6 cm",
+        "value_struct": {
+            "number": 0.6,
+            "unit": "cm"
+        },
+        "values": [{
+            "id": null,
+            "name": "0.6 cm",
+            "struct": {
+                "number": 0.6,
+                "unit": "cm"
+            }
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "PACKAGE_LENGTH",
+        "name": "Largo del paquete",
+        "value_id": null,
+        "value_name": "12 cm",
+        "value_struct": {
+            "number": 12,
+            "unit": "cm"
+        },
+        "values": [{
+            "id": null,
+            "name": "12 cm",
+            "struct": {
+                "number": 12,
+                "unit": "cm"
+            }
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "PACKAGE_WEIGHT",
+        "name": "Peso del paquete",
+        "value_id": null,
+        "value_name": "20 g",
+        "value_struct": {
+            "number": 20,
+            "unit": "g"
+        },
+        "values": [{
+            "id": null,
+            "name": "20 g",
+            "struct": {
+                "number": 20,
+                "unit": "g"
+            }
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "PACKAGE_WIDTH",
+        "name": "Ancho del paquete",
+        "value_id": null,
+        "value_name": "13.6 cm",
+        "value_struct": {
+            "number": 13.6,
+            "unit": "cm"
+        },
+        "values": [{
+            "id": null,
+            "name": "13.6 cm",
+            "struct": {
+                "number": 13.6,
+                "unit": "cm"
+            }
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "PRODUCT_FEATURES",
+        "name": "Características del producto",
+        "value_id": null,
+        "value_name": "Frágil,Sin vencimiento",
+        "value_struct": null,
+        "values": [{
+            "id": "7435883",
+            "name": "Frágil",
+            "struct": null
+        }, {
+            "id": "8847339",
+            "name": "Sin vencimiento",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "RESPIRATOR_SIZE",
+        "name": "Talle de la máscara",
+        "value_id": "3765919",
+        "value_name": "U",
+        "value_struct": null,
+        "values": [{
+            "id": "3765919",
+            "name": "U",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "RESPIRATOR_TYPE",
+        "name": "Tipo de máscara",
+        "value_id": null,
+        "value_name": "N95",
+        "value_struct": null,
+        "values": [{
+            "id": null,
+            "name": "N95",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }, {
+        "id": "SHIPMENT_PACKING",
+        "name": "Embalaje del envío",
+        "value_id": "7435891",
+        "value_name": "Bolsa",
+        "value_struct": null,
+        "values": [{
+            "id": "7435891",
+            "name": "Bolsa",
+            "struct": null
+        }],
+        "attribute_group_id": "OTHERS",
+        "attribute_group_name": "Otros"
+    }],
+    "warnings": [],
+    "listing_source": "",
+    "variations": [],
+    "status": "active",
+    "sub_status": [],
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"],
+    "warranty": "Sin garantía",
+    "catalog_product_id": null,
+    "domain_id": "MCO-RESPIRATORS",
+    "parent_item_id": null,
+    "differential_pricing": null,
+    "deal_ids": [],
+    "automatic_relist": false,
+    "date_created": "2020-04-26T22:27:20.000Z",
+    "last_updated": "2021-01-26T00:14:41.016Z",
+    "health": 0.87,
+    "catalog_listing": false
+}
